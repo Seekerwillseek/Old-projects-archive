@@ -1,0 +1,6 @@
+1.Create a basic GUI using Tkinter that allows the user to select an image from a folder and display it.
+2.Implement cropping functionality by allowing the user to select a portion of the image to keep and saving the cropped image to a separate folder.
+3.Implement bordering functionality by allowing the user to add a border of a chosen color and width to the image and saving it to a separate folder.
+4.Implement rotating functionality by allowing the user to rotate the image by a specified angle and saving the rotated image to a separate folder.
+5.Implement adding text functionality by allowing the user to add text to the image at a chosen location and saving it to a separate folder.
+6.Implement collaging functionality by allowing the user to combine multiple images into a single image and saving it to a separate folder
